@@ -1,1 +1,1 @@
-Print ("Hello AWS World!")
+print ("Hello AWS World!")
